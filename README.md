@@ -43,4 +43,3 @@ A professional web-based claim management system built with ASP.NET Core MVC for
 st10446906@rcconnect.edu.za
 
 
-*Developed as part of PRO65212 Portfolio of Evidence*
